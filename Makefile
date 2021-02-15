@@ -76,9 +76,6 @@ check-orphelins:  # Check that all markdown files are in use in template.
 check-diagrammes:  # Check that all files from diagrammes/matrice exist.
 	python3 check.py diagrammes
 
-check-service-worker:  # Check that all files in use are listed in service-worker.js.
-	python3 check.py service_worker
-
 lint:  ## Run ESLint + check code style.
 	npm run-script lint
 	./node_modules/.bin/prettier src/*.js src/**/*.js src/**/**/*.js src/**/**/**/*.js src/style.css --check
@@ -100,7 +97,7 @@ prefectures:  ## Generate data related to prefectures.
 dev:  ## Auto-rebuild and serve the static website with Parcel.
 	npm run-script build-dev
 
-pre-commit: pretty lint test-unit build check-versions check-orphelins check-diagrammes check-service-worker  ## Interesting prior to commit/push.
+pre-commit: pretty lint test-unit build check-versions check-orphelins check-diagrammes  ## Interesting prior to commit/push.
 
 prod: clean install lint pretty test check  ## Make sure everything is clean prior to deploy.
 	# Note: `test` dependency will actually generate the `build`.
