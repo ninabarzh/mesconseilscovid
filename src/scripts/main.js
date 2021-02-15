@@ -46,7 +46,7 @@ registerTimeAgo('fr', function (number, index) {
 
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker
-        .register('../service-worker.js')
+        .register(new URL('../service-worker.js', import.meta.url))
         .then(() => {
             // console.log('SW registration successful with scope: ', registration.scope)
         })

@@ -3,7 +3,13 @@ import { createElementFromHTML, safeHtml } from './affichage'
 
 import AlgorithmeSuivi from './algorithme/suivi'
 
-import SUIVI_IMAGES from '../suivi_*.svg'
+const SUIVI_IMAGES = {
+    gravite_superieure: require('url:../suivi_gravite_superieure.svg'),
+    gravite: require('url:../suivi_gravite.svg'),
+    interrogation: require('url:../suivi_interrogation.svg'),
+    ok: require('url:../suivi_ok.svg'),
+    stable: require('url:../suivi_stable.svg'),
+}
 
 export default class SuiviView {
     constructor(profil) {
