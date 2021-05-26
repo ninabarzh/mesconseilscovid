@@ -464,11 +464,12 @@ Sa situation
 
 ## [question_suivi_symptômes_aide.md](question_suivi_symptômes_aide.md)
 
-Décrivez ici l’évolution quotidienne de vos symptômes, pour obtenir des conseils adaptés pendant votre période d’isolement.
+Décrivez ici l’évolution quotidienne de vos symptômes, pour obtenir des conseils adaptés pendant votre période d’isolement. Sauf mention contraire, tous les champs sont requis.
 
 ---
 
-Décrivez ici l’évolution quotidienne de ses symptômes, pour obtenir des conseils adaptés pendant sa période d’isolement.
+Décrivez ici l’évolution quotidienne de ses symptômes, pour obtenir des conseils adaptés pendant sa période d’isolement. Sauf mention contraire, tous les champs sont requis.
+
 
 
 ## [question_suivi_symptômes_alimentation_hydratation_libellé.md](question_suivi_symptômes_alimentation_hydratation_libellé.md)
@@ -529,11 +530,11 @@ Cette personne a un ou des **signes** qui peuvent évoquer la Covid **aujourd’
 
 ## [question_suivi_symptômes_maux_de_tête_libellé.md](question_suivi_symptômes_maux_de_tête_libellé.md)
 
-Avez-vous un **mal de tête** qui ne part pas, même après la prise de médicaments contre la douleur (dont paracétamol), et que vous décririez comme intolérable, depuis hier (ou votre dernière connexion) ?
+Avez-vous un **mal de tête** qui ne part pas, même après la prise de médicaments contre la douleur (dont paracétamol), et que vous décririez comme intolérable, depuis hier (ou votre dernière connexion) ? [Réponse facultative]
 
 ---
 
-Votre proche a-t-il/elle un **mal de tête** qui ne part pas, même après la prise de médicaments contre la douleur (dont paracétamol), et qu’il/elle décrirait comme intolérable, depuis hier (ou votre dernière connexion) ?
+Votre proche a-t-il/elle un **mal de tête** qui ne part pas, même après la prise de médicaments contre la douleur (dont paracétamol), et qu’il/elle décrirait comme intolérable, depuis hier (ou votre dernière connexion) ? [Réponse facultative]
 
 
 
@@ -549,11 +550,11 @@ L’évolution de ses symptômes
 
 ## [question_suivi_symptômes_toux_libellé.md](question_suivi_symptômes_toux_libellé.md)
 
-Est-ce que l’aspect de vos crachats lors de la **toux** s’est modifié (aspect coloré jaune ou orangé ou sanglant) depuis hier (ou votre dernière connexion) ?
+Est-ce que l’aspect de vos crachats lors de la **toux** s’est modifié (aspect coloré jaune ou orangé ou sanglant) depuis hier (ou votre dernière connexion) ? [Réponse facultative]
 
 ---
 
-Est-ce que l’aspect des crachats lors de la **toux** de votre proche s’est modifié (aspect coloré jaune ou orangé ou sanglant) depuis hier (ou votre dernière connexion) ?
+Est-ce que l’aspect des crachats lors de la **toux** de votre proche s’est modifié (aspect coloré jaune ou orangé ou sanglant) depuis hier (ou votre dernière connexion) ? [Réponse facultative]
 
 
 
