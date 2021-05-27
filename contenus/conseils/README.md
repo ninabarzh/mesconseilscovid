@@ -58,7 +58,7 @@ Si vous ne pouvez pas **télétravailler**, vous pouvez demander un arrêt de tr
     * la protection des [professionnels **de santé**](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/professionnels-de-sante/distrilog-sante),
     * la protection des [professionnels **du médico-social**](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/professionnels-du-social-et-medico-social/),
     * les [aides logistiques et psychologiques](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/professionnels-de-sante/article/aides-logistiques-et-psychologiques-aux-professionnels) pour tous les professionnels de santé.
-* Nos conseils pour [les moins de 15 ans](#pediatrie), si vous travaillez auprès d’enfants et/ou devez conseiller des parents.
+* Nos conseils pour [les moins de 15 ans](/pediatrie), si vous travaillez auprès d’enfants et/ou devez conseiller des parents.
 * [L’espace dédié pour les professionnels](https://www.gouvernement.fr/info-coronavirus/espace-pour-les-professionnels) sur le site du gouvernement.
 
 Vous êtes disponible et vous souhaitez vous porter volontaire ? Inscrivez-vous sur la [plateforme Renfort-RH](https://renfortrh.solidarites-sante.gouv.fr/).
@@ -67,21 +67,21 @@ Vous êtes disponible et vous souhaitez vous porter volontaire ? Inscrivez-vous
 
 ## [conseils_autosuivi_historique.md](conseils_autosuivi_historique.md)
 
-À tout moment, vous pouvez consulter <a href="#suivihistorique">l’historique de vos symptômes</a>, par exemple pour **les partager avec votre médecin**.
+À tout moment, vous pouvez consulter <a href="/suivi/historique">l’historique de vos symptômes</a>, par exemple pour **les partager avec votre médecin**.
 
 ---
 
-À tout moment, vous pouvez consulter <a href="#suivihistorique">l’historique des symptômes</a> de votre proche, par exemple pour **les partager avec son médecin**.
+À tout moment, vous pouvez consulter <a href="/suivi/historique">l’historique des symptômes</a> de votre proche, par exemple pour **les partager avec son médecin**.
 
 
 
 ## [conseils_autosuivi_régularité.md](conseils_autosuivi_régularité.md)
 
-Nous vous conseillons de <a href="#suiviintroduction">renseigner le questionnaire</a> **1 à 2 fois par jour**. Pour vous en souvenir, mettez un rappel sur votre téléphone ou <a href="" class="js-calendar" download="rappel-covid19.ics">ajoutez un évènement récurrent à votre calendrier</a>.
+Nous vous conseillons de <a href="/suivi/introduction">renseigner le questionnaire</a> **1 à 2 fois par jour**. Pour vous en souvenir, mettez un rappel sur votre téléphone ou <a href="" class="js-calendar" download="rappel-covid19.ics">ajoutez un évènement récurrent à votre calendrier</a>.
 
 ---
 
-Nous vous conseillons de <a href="#suiviintroduction">renseigner son questionnaire</a> **1 à 2 fois par jour**. Pour vous en souvenir, mettez un rappel sur votre téléphone ou <a href="" class="js-calendar" download="rappel-covid19.ics">ajoutez un évènement récurrent à votre calendrier</a>.
+Nous vous conseillons de <a href="/suivi/introduction">renseigner son questionnaire</a> **1 à 2 fois par jour**. Pour vous en souvenir, mettez un rappel sur votre téléphone ou <a href="" class="js-calendar" download="rappel-covid19.ics">ajoutez un évènement récurrent à votre calendrier</a>.
 
 
 
@@ -109,7 +109,7 @@ Une personne ayant la Covid est **contagieuse 48 h avant** les premiers symptô
 Pour plus d’informations, vous pouvez consulter :
 
 * [la page dédiée au couvre-feu sur le site du gouvernement](https://www.gouvernement.fr/info-coronavirus/couvre-feu) ;
-* les règles spécifiques de votre **département** sur <a href="#conseils-departement" id="lien-prefecture">le site de votre préfecture</a>.
+* les règles spécifiques de votre **département** sur <a href="/conseils-departement" id="lien-prefecture">le site de votre préfecture</a>.
 
 
 
@@ -330,7 +330,7 @@ Récapitulatif : [Je limite la transmission du virus en adoptant la bonne condu
 
 Restez isolé·e **au minimum 7 jours** après votre dernier contact avec une personne malade.
 
-Si des symptômes apparaissent pendant votre isolement, revenez faire un test sur [MesConseilsCovid.fr](https://mesconseilscovid.sante.gouv.fr/#introduction). 
+Si des symptômes apparaissent pendant votre isolement, revenez faire un test sur [MesConseilsCovid.fr](https://mesconseilscovid.sante.gouv.fr/).
 
 
 
@@ -440,8 +440,8 @@ Vous avez passé du temps avec quelqu’un de positif, mais il ne s’agit pas *
 Nous vous conseillons de :
 
 1. Vous maintenir **en isolement**.
-1. **Refaire un test antigénique immédiatement**, si votre dernier test date d’avant votre dernier contact à risque (voir la <a href="#conseils-depistage" class="lien-depistage">carte des lieux de test</a>.
-    * Si le test est **positif**, restez **en isolement au moins 10 jours** à partir de la date du test, et renseignez le [résultat du test](#depistage) pour mettre à jour ces conseils.
+1. **Refaire un test antigénique immédiatement**, si votre dernier test date d’avant votre dernier contact à risque (voir la <a href="/conseils-depistage" class="lien-depistage">carte des lieux de test</a>.
+    * Si le test est **positif**, restez **en isolement au moins 10 jours** à partir de la date du test, et renseignez le [résultat du test](/depistage) pour mettre à jour ces conseils.
     * Si le test est **négatif**, restez **en isolement**, et faites un test **7 jours après le dernier contact à risque** ;
         * s’il est **négatif**, vous pourrez lever votre isolement ;
         * s’il est **positif**, restez en isolement **au moins 10 jours** à partir de la date du test, et surveillez l’apparition de symptômes.
@@ -450,7 +450,7 @@ Nous vous conseillons de :
 1. Si vous constatez l’apparition de **symptômes** :
     * Contacter votre médecin et **vous faire tester**.
     * Ne pas prendre d’**anti-inflammatoires** (ibuprofène ou kétoprofène) sans avis médical. Les anti-inflammatoires pourraient **aggraver** l’infection à la Covid. Seul le **paracétamol** est recommandé. En cas de doute, demandez conseil à votre médecin.
-    * Suivre l’évolution de vos symptômes avec le [questionnaire de suivi](#suivisymptomes).
+    * Suivre l’évolution de vos symptômes avec le [questionnaire de suivi](/suivi/symptomes).
 1. Revenir sur Mes Conseils Covid **si votre situation change** afin d’avoir les conseils adaptés à votre nouvelle situation !
 
 
@@ -467,7 +467,7 @@ Nous vous conseillons de :
 1. Si vous constatez l’apparition de **symptômes** :
     * Contacter votre médecin et **faire un test**.
     * Ne pas prendre d’**anti-inflammatoires** (ibuprofène ou kétoprofène) sans avis médical. Les anti-inflammatoires pourraient **aggraver** l’infection à la Covid. Seul le **paracétamol** est recommandé. En cas de doute, demandez conseil à votre médecin.
-    * Suivre l’évolution de vos symptômes avec le [questionnaire de suivi](#suivisymptomes).
+    * Suivre l’évolution de vos symptômes avec le [questionnaire de suivi](/suivi/symptomes).
 1. Revenir sur Mes Conseils Covid **si votre situation change** afin d’avoir les conseils adaptés à votre nouvelle situation !
 
 
@@ -477,8 +477,8 @@ Nous vous conseillons de :
 Même si vous avez été vacciné‚ nous vous conseillons de :
 
 1. Vous maintenir **en isolement**.
-1. Faire un **test antigénique immédiatement** (voir la <a href="#conseils-depistage" class="lien-depistage">carte des lieux de test</a>).
-    * Si le test est **positif**, restez **en isolement au moins 10 jours** à partir de la date du test, et renseignez le [résultat du test](#depistage) pour mettre à jour ces conseils.
+1. Faire un **test antigénique immédiatement** (voir la <a href="/conseils-depistage" class="lien-depistage">carte des lieux de test</a>).
+    * Si le test est **positif**, restez **en isolement au moins 10 jours** à partir de la date du test, et renseignez le [résultat du test](/depistage) pour mettre à jour ces conseils.
     * Si le test est **négatif**, restez **en isolement**, et faites un test **7 jours après la guérison** de la personne malade ;
         * s’il est **négatif**, vous pourrez lever votre isolement ;
         * s’il est **positif**, restez en isolement **au moins 10 jours** à partir de la date du test, et surveillez l’apparition de symptômes.
@@ -486,7 +486,7 @@ Même si vous avez été vacciné‚ nous vous conseillons de :
 1. Si vous constatez l’apparition de **symptômes** :
     * Contacter votre médecin et **faire un test**.
     * Ne pas prendre d’**anti-inflammatoires** (ibuprofène ou kétoprofène) sans avis médical. Les anti-inflammatoires pourraient **aggraver** l’infection à la Covid. Seul le **paracétamol** est recommandé. En cas de doute, demandez conseil à votre médecin.
-    * Suivre l’évolution de vos symptômes avec le [questionnaire de suivi](#suivisymptomes).
+    * Suivre l’évolution de vos symptômes avec le [questionnaire de suivi](/suivi/symptomes).
 1. Revenir sur Mes Conseils Covid **si votre situation change** afin d’avoir les conseils adaptés à votre nouvelle situation !
 
 
@@ -496,8 +496,8 @@ Même si vous avez été vacciné‚ nous vous conseillons de :
 Même si vous avez été vacciné‚ nous vous conseillons de :
 
 1. Vous maintenir **en isolement**.
-1. Faire un **test antigénique immédiatement** (voir la <a href="#conseils-depistage" class="lien-depistage">carte des lieux de test</a>).
-    * Si le test est **positif**, restez **en isolement au moins 10 jours** à partir de la date du test, et renseignez le [résultat du test](#depistage) pour mettre à jour ces conseils.
+1. Faire un **test antigénique immédiatement** (voir la <a href="/conseils-depistage" class="lien-depistage">carte des lieux de test</a>).
+    * Si le test est **positif**, restez **en isolement au moins 10 jours** à partir de la date du test, et renseignez le [résultat du test](/depistage) pour mettre à jour ces conseils.
     * Si le test est **négatif**, restez **en isolement**, et faites un test **7 jours après le dernier contact à risque** ;
         * s’il est **négatif**, vous pourrez lever votre isolement ;
         * s’il est **positif**, restez en isolement **au moins 10 jours** à partir de la date du test, et surveillez l’apparition de symptômes.
@@ -506,7 +506,7 @@ Même si vous avez été vacciné‚ nous vous conseillons de :
 1. Si vous constatez l’apparition de **symptômes** :
     * Contacter votre médecin et **faire un test**.
     * Ne pas prendre d’**anti-inflammatoires** (ibuprofène ou kétoprofène) sans avis médical. Les anti-inflammatoires pourraient **aggraver** l’infection à la Covid. Seul le **paracétamol** est recommandé. En cas de doute, demandez conseil à votre médecin.
-    * Suivre l’évolution de vos symptômes avec le [questionnaire de suivi](#suivisymptomes).
+    * Suivre l’évolution de vos symptômes avec le [questionnaire de suivi](/suivi/symptomes).
 1. Revenir sur Mes Conseils Covid **si votre situation change** afin d’avoir les conseils adaptés à votre nouvelle situation !
 
 
@@ -515,18 +515,18 @@ Même si vous avez été vacciné‚ nous vous conseillons de :
 
 Nous vous conseillons de :
 
-1. **Réaliser un test RT-PCR en laboratoire** en consultant la <a href="#conseils-depistage" class="lien-depistage">carte des lieux de test</a> (vous serez prioritaire), pour confirmer le résultat et identifier un éventuel **variant** du virus.
+1. **Réaliser un test RT-PCR en laboratoire** en consultant la <a href="/conseils-depistage" class="lien-depistage">carte des lieux de test</a> (vous serez prioritaire), pour confirmer le résultat et identifier un éventuel **variant** du virus.
 1. Vous maintenir **en isolement** pendant au moins **10 jours** à partir de la date du test antigénique.
 1. {.seulement-si-activite-pro-et-autotest} Si vous ne pouvez pas **télétravailler**, vous pouvez [demander un arrêt de travail](https://declare.ameli.fr/isolement/conditions) sans délai de carence, pour pouvoir rester chez vous en attendant le résultat du test PCR.
 1. {.seulement-si-activite-pro-et-pas-autotest} Vous allez être contacté par l’Assurance maladie ; si vous ne pouvez pas **télétravailler**, elle pourra vous prescrire un **arrêt de travail** couvrant toute votre période d’isolement.
 1. {.seulement-si-foyer} Mettre en place des **mesures d’hygiène renforcée** dans votre foyer pour protéger vos proches (voir la section **Isolement** plus bas).
 1. {.seulement-si-foyer} Les autres membres de votre foyer sont considérés comme **cas contact**, et doivent :
     * se maintenir **en isolement** eux aussi (les enfants ne doivent pas aller à l’**école**) ;
-    * faire un **test antigénique immédiatement** (voir la <a href="#conseils-depistage" class="lien-depistage">carte des lieux de test</a>) : si leur test est **positif**, ils devront rester **en isolement au moins 10 jours** à partir de la date du test ; si leur test est **négatif**, ils devront refaire un test 7 jours après votre guérison (voir l’<a href="illustrations/isolement-foyer-malade.png">infographie détaillée</a>).
+    * faire un **test antigénique immédiatement** (voir la <a href="/conseils-depistage" class="lien-depistage">carte des lieux de test</a>) : si leur test est **positif**, ils devront rester **en isolement au moins 10 jours** à partir de la date du test ; si leur test est **négatif**, ils devront refaire un test 7 jours après votre guérison (voir l’<a href="illustrations/isolement-foyer-malade.png">infographie détaillée</a>).
 1. Si vous constatez l’apparition de **symptômes** :
     * Contacter votre médecin et **faire un test**.
     * Ne pas prendre d’**anti-inflammatoires** (ibuprofène ou kétoprofène) sans avis médical. Les anti-inflammatoires pourraient **aggraver** l’infection à la Covid. Seul le **paracétamol** est recommandé. En cas de doute, demandez conseil à votre médecin.
-    * Suivre l’évolution de vos symptômes avec le [questionnaire de suivi](#suivisymptomes).
+    * Suivre l’évolution de vos symptômes avec le [questionnaire de suivi](/suivi/symptomes).
 1. Contacter vos proches et les personnes que vous avez croisés dernièrement pour **limiter la chaîne de transmission**. Des outils, comme par exemple l’outil [BriserLaChaine.org](https://www.briserlachaine.org/statut) de l’ONG BAYES, peuvent vous aider à vous souvenir de toutes les personnes que vous avez croisées et des lieux que vous avez fréquentés depuis le début de votre période contagieuse.
 1. Si vous avez installé l’application TousAntiCovid sur votre smartphone, vous pouvez y scanner le **QR code** présent sur vos résultats dans la section « Me déclarer ».
 1. Revenir sur Mes Conseils Covid **si votre situation change** afin d’avoir les conseils adaptés à votre nouvelle situation !
@@ -537,16 +537,16 @@ Nous vous conseillons de :
 
 Nous vous conseillons de :
 
-1. **Réaliser un test RT-PCR en laboratoire** en consultant la <a href="#conseils-depistage" class="lien-depistage">carte des lieux de test</a> (vous serez prioritaire), pour confirmer le résultat et identifier un éventuel **variant** du virus.
+1. **Réaliser un test RT-PCR en laboratoire** en consultant la <a href="/conseils-depistage" class="lien-depistage">carte des lieux de test</a> (vous serez prioritaire), pour confirmer le résultat et identifier un éventuel **variant** du virus.
 1. Vous maintenir **en isolement** pendant au moins **10 jours** à partir de la date d’apparition des symptômes.
 1. {.seulement-si-activite-pro-et-autotest} Si vous ne pouvez pas **télétravailler**, vous pouvez [demander un arrêt de travail](https://declare.ameli.fr/isolement/conditions) sans délai de carence, pour pouvoir rester chez vous en attendant le résultat du test PCR.
 1. {.seulement-si-activite-pro-et-pas-autotest} Vous allez être contacté par l’Assurance maladie ; si vous ne pouvez pas **télétravailler**, elle pourra vous prescrire un **arrêt de travail** couvrant toute votre période d’isolement.
 1. {.seulement-si-foyer} Mettre en place des **mesures d’hygiène renforcée** dans votre foyer pour protéger vos proches (voir la section **Isolement** plus bas).
 1. {.seulement-si-foyer} Les autres membres de votre foyer sont considérés comme **cas contact**, et doivent :
     * se maintenir **en isolement** eux aussi (les enfants ne doivent pas aller à l’**école**) ;
-    * faire un **test antigénique immédiatement** (voir la <a href="#conseils-depistage" class="lien-depistage">carte des lieux de test</a>) : si leur test est **positif**, ils devront rester **en isolement au moins 10 jours** à partir de la date du test ; si leur test est **négatif**, ils devront refaire un test 7 jours après votre guérison (voir l’<a href="illustrations/isolement-foyer-malade.png">infographie détaillée</a>).
+    * faire un **test antigénique immédiatement** (voir la <a href="/conseils-depistage" class="lien-depistage">carte des lieux de test</a>) : si leur test est **positif**, ils devront rester **en isolement au moins 10 jours** à partir de la date du test ; si leur test est **négatif**, ils devront refaire un test 7 jours après votre guérison (voir l’<a href="illustrations/isolement-foyer-malade.png">infographie détaillée</a>).
 1. Ne pas prendre d’**anti-inflammatoires** (ibuprofène ou kétoprofène) sans avis médical. Les anti-inflammatoires pourraient **aggraver** l’infection à la Covid. Seul le **paracétamol** est recommandé. En cas de doute, demandez conseil à votre médecin.
-1. Suivre vos **symptômes** avec le [questionnaire de suivi](#suivisymptomes) (pour y penser, ajoutez un rappel sur votre téléphone ou dans <a href="" class="js-calendar" download="rappel-covid19.ics">votre calendrier</a>).
+1. Suivre vos **symptômes** avec le [questionnaire de suivi](/suivi/symptomes) (pour y penser, ajoutez un rappel sur votre téléphone ou dans <a href="" class="js-calendar" download="rappel-covid19.ics">votre calendrier</a>).
 1. Pour **limiter la chaîne de transmission**, contacter vos proches et les personnes que vous avez croisés dernièrement, depuis **48 h avant les premiers symptômes** jusqu’à maintenant. Des outils, comme [BriserLaChaine.org](https://www.briserlachaine.org/statut) de l’ONG BAYES, peuvent vous aider à vous souvenir de toutes les personnes que vous avez croisées.
 1. Si vous avez installé l’application TousAntiCovid sur votre smartphone, vous pouvez y scanner le **QR code** présent sur vos résultats dans la section « Me déclarer ».
 1. Revenir sur Mes Conseils Covid **si votre situation change** afin d’avoir les conseils adaptés à votre nouvelle situation !
@@ -562,11 +562,11 @@ Nous vous conseillons de :
 1. {.seulement-si-foyer} Mettre en place des **mesures d’hygiène renforcée** dans votre foyer pour protéger vos proches (voir la section **Isolement** plus bas).
 1. {.seulement-si-foyer} Les autres membres de votre foyer sont considérés comme **cas contact**, et doivent :
     - se maintenir **en isolement** eux aussi (les enfants ne doivent pas aller à l’**école**) ;
-    - faire un **test antigénique immédiatement** (voir la <a href="#conseils-depistage" class="lien-depistage">carte des lieux de test</a>) : si leur test est **positif**, ils devront rester **en isolement au moins 10 jours** à partir de la date du test ; si leur test est **négatif**, ils devront refaire un test 7 jours après votre guérison (voir l’<a href="illustrations/isolement-foyer-malade.png">infographie détaillée</a>).
+    - faire un **test antigénique immédiatement** (voir la <a href="/conseils-depistage" class="lien-depistage">carte des lieux de test</a>) : si leur test est **positif**, ils devront rester **en isolement au moins 10 jours** à partir de la date du test ; si leur test est **négatif**, ils devront refaire un test 7 jours après votre guérison (voir l’<a href="illustrations/isolement-foyer-malade.png">infographie détaillée</a>).
 1. Si vous constatez l’apparition de **symptômes** :
     * Contacter votre médecin et **faire un test**.
     * Ne pas prendre d’**anti-inflammatoires** (ibuprofène ou kétoprofène) sans avis médical. Les anti-inflammatoires pourraient **aggraver** l’infection à la Covid. Seul le **paracétamol** est recommandé. En cas de doute, demandez conseil à votre médecin.
-    * Suivre l’évolution de vos symptômes avec le [questionnaire de suivi](#suivisymptomes).
+    * Suivre l’évolution de vos symptômes avec le [questionnaire de suivi](/suivi/symptomes).
 1. Contacter vos proches et les personnes que vous avez croisés dernièrement pour **limiter la chaîne de transmission**. Des outils, comme par exemple l’outil [BriserLaChaine.org](https://www.briserlachaine.org/statut) de l’ONG BAYES, peuvent vous aider à vous souvenir de toutes les personnes que vous avez croisées et des lieux que vous avez fréquentés depuis le début de votre période contagieuse.
 1. Si vous avez installé l’application TousAntiCovid sur votre smartphone, vous pouvez y scanner le **QR code** présent sur vos résultats dans la section « Me déclarer ».
 1. Revenir sur Mes Conseils Covid **si votre situation change** afin d’avoir les conseils adaptés à votre nouvelle situation !
@@ -582,9 +582,9 @@ Nous vous conseillons de :
 1. {.seulement-si-foyer} Mettre en place des **mesures d’hygiène renforcée** dans votre foyer pour protéger vos proches (voir la section **Isolement** plus bas).
 1. {.seulement-si-foyer} Les autres membres de votre foyer sont considérés comme **cas contact**, et doivent :
     - se maintenir **en isolement** eux aussi (les enfants ne doivent pas aller à l’**école**) ;
-    - faire un **test antigénique immédiatement** (voir la <a href="#conseils-depistage" class="lien-depistage">carte des lieux de test</a>) : si ce test est **positif**, ils devront rester en isolement au moins **10 jours** à partir de la date du test ; s’il est **négatif**, ils devront refaire un test 7 jours après votre guérison (voir l’<a href="illustrations/isolement-foyer-malade.png">infographie détaillée</a>).
+    - faire un **test antigénique immédiatement** (voir la <a href="/conseils-depistage" class="lien-depistage">carte des lieux de test</a>) : si ce test est **positif**, ils devront rester en isolement au moins **10 jours** à partir de la date du test ; s’il est **négatif**, ils devront refaire un test 7 jours après votre guérison (voir l’<a href="illustrations/isolement-foyer-malade.png">infographie détaillée</a>).
 1. Ne pas prendre d’**anti-inflammatoires** (ibuprofène ou kétoprofène) sans avis médical. Les anti-inflammatoires pourraient **aggraver** l’infection à la Covid. Seul le **paracétamol** est recommandé. En cas de doute, demandez conseil à votre médecin.
-1. Suivre vos **symptômes** avec le [questionnaire de suivi](#suivisymptomes) (pour y penser, ajoutez un rappel sur votre téléphone ou dans <a href="" class="js-calendar" download="rappel-covid19.ics">votre calendrier</a>).
+1. Suivre vos **symptômes** avec le [questionnaire de suivi](/suivi/symptomes) (pour y penser, ajoutez un rappel sur votre téléphone ou dans <a href="" class="js-calendar" download="rappel-covid19.ics">votre calendrier</a>).
 1. Pour **limiter la chaîne de transmission**, contacter vos proches et les personnes que vous avez croisés dernièrement, depuis **48 h avant les premiers symptômes** jusqu’à maintenant. Des outils, comme [BriserLaChaine.org](https://www.briserlachaine.org/statut) de l’ONG BAYES, peuvent vous aider à vous souvenir de toutes les personnes que vous avez croisées.
 1. Si vous avez installé l’application TousAntiCovid sur votre smartphone, vous pouvez y scanner le **QR code** présent sur vos résultats dans la section « Me déclarer ».
 1. Revenir sur Mes Conseils Covid **si votre situation change** afin d’avoir les conseils adaptés à votre nouvelle situation !
@@ -607,7 +607,7 @@ Nous vous conseillons de :
     * Si le résultat est **négatif**, vous pourrez mettre fin à votre isolement.
 1. {.seulement-si-foyer} Mettre en place des **mesures d’hygiène renforcée** dans votre foyer pour protéger vos proches (voir la section **Isolement** plus bas).
 1. Ne pas prendre d’**anti-inflammatoires** (ibuprofène ou kétoprofène) sans avis médical. Les anti-inflammatoires pourraient **aggraver** l’infection à la Covid. Seul le **paracétamol** est recommandé. En cas de doute, demandez conseil à votre médecin.
-1. Suivre vos **symptômes** avec le [questionnaire de suivi](#suivisymptomes) (pour y penser, ajoutez un rappel sur votre téléphone ou dans <a href="" class="js-calendar" download="rappel-covid19.ics">votre calendrier</a>).
+1. Suivre vos **symptômes** avec le [questionnaire de suivi](/suivi/symptomes) (pour y penser, ajoutez un rappel sur votre téléphone ou dans <a href="" class="js-calendar" download="rappel-covid19.ics">votre calendrier</a>).
 1. Si le test est positif, pour **limiter la chaîne de transmission**, contacter vos proches et les personnes que vous avez croisés dernièrement, depuis **48 h avant les premiers symptômes** jusqu’à maintenant. Des outils, comme [BriserLaChaine.org](https://www.briserlachaine.org/statut) de l’ONG BAYES, peuvent vous aider à vous souvenir de toutes les personnes que vous avez croisées.
 1. Revenir sur Mes Conseils Covid **quand vous aurez reçu vos résultats** afin d’avoir les conseils adaptés à votre nouvelle situation !
 
@@ -630,13 +630,13 @@ Nous vous conseillons de **préciser au 15** :
 Même si vous avez été vacciné‚ nous vous conseillons de :
 
 1. **Contacter votre médecin généraliste**.
-1. **Réaliser un test** en consultant la <a href="#conseils-depistage" class="lien-depistage">carte des lieux de test</a> (vous serez prioritaire). Si vos symptômes datent de moins de 4 jours, vous pouvez faire un test antigénique rapide ou un test en laboratoire. Si vos symptômes datent de plus de 4 jours, seul un test en laboratoire est conseillé.
+1. **Réaliser un test** en consultant la <a href="/conseils-depistage" class="lien-depistage">carte des lieux de test</a> (vous serez prioritaire). Si vos symptômes datent de moins de 4 jours, vous pouvez faire un test antigénique rapide ou un test en laboratoire. Si vos symptômes datent de plus de 4 jours, seul un test en laboratoire est conseillé.
 1. Vous maintenir **en isolement** jusqu’au résultat du test :
     * {.seulement-si-activite-pro} Si vous ne pouvez pas **télétravailler**, vous pouvez [demander un arrêt de travail](https://declare.ameli.fr/isolement/conditions) sans délai de carence, pour pouvoir rester chez vous en attendant le résultat.
     * Si le résultat est **négatif**, vous pourrez mettre fin à votre isolement.
 1. {.seulement-si-foyer} Mettre en place des **mesures d’hygiène renforcée** dans votre foyer pour protéger vos proches (voir la section **Isolement** plus bas).
 1. Ne pas prendre d’**anti-inflammatoires** (ibuprofène ou kétoprofène) sans avis médical. Les anti-inflammatoires pourraient **aggraver** l’infection à la Covid. Seul le **paracétamol** est recommandé. En cas de doute, demandez conseil à votre médecin.
-1. Suivre vos **symptômes** avec le [questionnaire de suivi](#suivisymptomes) (pour y penser, ajoutez un rappel sur votre téléphone ou dans <a href="" class="js-calendar" download="rappel-covid19.ics">votre calendrier</a>).
+1. Suivre vos **symptômes** avec le [questionnaire de suivi](/suivi/symptomes) (pour y penser, ajoutez un rappel sur votre téléphone ou dans <a href="" class="js-calendar" download="rappel-covid19.ics">votre calendrier</a>).
 1. Si le test est positif, pour **limiter la chaîne de transmission**, contacter vos proches et les personnes que vous avez croisés dernièrement, depuis **48 h avant les premiers symptômes** jusqu’à maintenant. Des outils, comme [BriserLaChaine.org](https://www.briserlachaine.org/statut) de l’ONG BAYES, peuvent vous aider à vous souvenir de toutes les personnes que vous avez croisées.
 1. Revenir sur Mes Conseils Covid **si votre situation change** afin d’avoir les conseils adaptés à votre nouvelle situation !
 
@@ -675,7 +675,7 @@ Nous vous conseillons de :
 1. {.seulement-si-foyer} Mettre en place des **mesures d’hygiène renforcée** dans votre foyer pour protéger vos proches (voir la section **Isolement** plus bas).
 1. {.seulement-si-foyer} Les autres membres de votre foyer sont considérés comme **cas contact**, et doivent :
     - se maintenir **en isolement** eux aussi (les enfants ne doivent pas aller à l’**école**) ;
-    - faire un **test antigénique immédiatement** (voir la <a href="#conseils-depistage" class="lien-depistage">carte des lieux de test</a>) : si leur test est **positif**, ils devront rester **en isolement au moins 10 jours** à partir de la date du test ; si leur test est **négatif**, ils devront refaire un test 7 jours après votre guérison (voir l’<a href="illustrations/isolement-foyer-malade.png">infographie détaillée</a>).
+    - faire un **test antigénique immédiatement** (voir la <a href="/conseils-depistage" class="lien-depistage">carte des lieux de test</a>) : si leur test est **positif**, ils devront rester **en isolement au moins 10 jours** à partir de la date du test ; si leur test est **négatif**, ils devront refaire un test 7 jours après votre guérison (voir l’<a href="illustrations/isolement-foyer-malade.png">infographie détaillée</a>).
 1. Pour **limiter la chaîne de transmission**, contacter vos proches et les personnes que vous avez croisés dernièrement, depuis **48 h avant les premiers symptômes** jusqu’à maintenant. Des outils, comme [BriserLaChaine.org](https://www.briserlachaine.org/statut) de l’ONG BAYES, peuvent vous aider à vous souvenir de toutes les personnes que vous avez croisées.
 1. Si vous avez installé l’application TousAntiCovid sur votre smartphone, vous pouvez y scanner le **QR code** présent sur vos résultats dans la section « Me déclarer ».
 1. Revenir sur Mes Conseils Covid **si votre situation change** afin d’avoir les conseils adaptés à votre nouvelle situation !
@@ -688,14 +688,14 @@ Retrouvez tous les conseils en [vidéo](https://www.youtube.com/watch?v=sckUau7q
 
 Nous vous conseillons de :
 
-1. **Réaliser un test RT-PCR en laboratoire** en consultant la <a href="#conseils-depistage" class="lien-depistage">carte des lieux de test</a> (vous serez prioritaire), pour confirmer le résultat et identifier un éventuel **variant** du virus.
+1. **Réaliser un test RT-PCR en laboratoire** en consultant la <a href="/conseils-depistage" class="lien-depistage">carte des lieux de test</a> (vous serez prioritaire), pour confirmer le résultat et identifier un éventuel **variant** du virus.
 1. Vous maintenir **en isolement** pendant au moins **10 jours** à partir de la date d’apparition des symptômes.
 1. {.seulement-si-activite-pro-et-autotest} Si vous ne pouvez pas **télétravailler**, vous pouvez [demander un arrêt de travail](https://declare.ameli.fr/isolement/conditions) sans délai de carence, pour pouvoir rester chez vous en attendant le résultat du test PCR.
 1. {.seulement-si-activite-pro-et-pas-autotest} Vous allez être contacté par l’Assurance maladie ; si vous ne pouvez pas **télétravailler**, elle pourra vous prescrire un **arrêt de travail** couvrant toute votre période d’isolement.
 1. {.seulement-si-foyer} Mettre en place des **mesures d’hygiène renforcée** dans votre foyer pour protéger vos proches (voir la section **Isolement** plus bas).
 1. {.seulement-si-foyer} Les autres membres de votre foyer sont considérés comme **cas contact**, et doivent :
     - se maintenir **en isolement** eux aussi (les enfants ne doivent pas aller à l’**école**) ;
-    - faire un **test antigénique immédiatement** (voir la <a href="#conseils-depistage" class="lien-depistage">carte des lieux de test</a>) : si leur test est **positif**, ils devront rester **en isolement au moins 10 jours** à partir de la date du test ; si leur test est **négatif**, ils devront refaire un test 7 jours après votre guérison (voir l’<a href="illustrations/isolement-foyer-malade.png">infographie détaillée</a>).
+    - faire un **test antigénique immédiatement** (voir la <a href="/conseils-depistage" class="lien-depistage">carte des lieux de test</a>) : si leur test est **positif**, ils devront rester **en isolement au moins 10 jours** à partir de la date du test ; si leur test est **négatif**, ils devront refaire un test 7 jours après votre guérison (voir l’<a href="illustrations/isolement-foyer-malade.png">infographie détaillée</a>).
 1. Pour **limiter la chaîne de transmission**, contacter vos proches et les personnes que vous avez croisés dernièrement, depuis **48 h avant les premiers symptômes** jusqu’à maintenant. Des outils, comme [BriserLaChaine.org](https://www.briserlachaine.org/statut) de l’ONG BAYES, peuvent vous aider à vous souvenir de toutes les personnes que vous avez croisées.
 1. Si vous avez installé l’application TousAntiCovid sur votre smartphone, vous pouvez y scanner le **QR code** présent sur vos résultats dans la section « Me déclarer ».
 1. Revenir sur Mes Conseils Covid **si votre situation change** afin d’avoir les conseils adaptés à votre nouvelle situation !
@@ -707,7 +707,7 @@ Nous vous conseillons de :
 
 Nous vous conseillons de :
 
-1. **Réaliser un test** en consultant la <a href="#conseils-depistage" class="lien-depistage">carte des lieux de test</a>. Si vos symptômes datent de moins de 4 jours, vous pouvez faire un test antigénique rapide ou un test en laboratoire. Si vos symptômes datent de plus de 4 jours, seul un test en laboratoire est conseillé.
+1. **Réaliser un test** en consultant la <a href="/conseils-depistage" class="lien-depistage">carte des lieux de test</a>. Si vos symptômes datent de moins de 4 jours, vous pouvez faire un test antigénique rapide ou un test en laboratoire. Si vos symptômes datent de plus de 4 jours, seul un test en laboratoire est conseillé.
 1. Vous maintenir **en isolement** jusqu’au résultat du test. Si le résultat est négatif, vous pourrez mettre fin à votre isolement.
 1. {.seulement-si-foyer} Mettre en place des **mesures d’hygiène renforcée** dans votre foyer pour protéger vos proches (voir la section **Isolement** plus bas).
 1. Si le test est positif, pour **limiter la chaîne de transmission**, contacter vos proches et les personnes que vous avez croisés dernièrement, depuis **48 h avant les premiers symptômes** jusqu’à maintenant. Des outils, comme [BriserLaChaine.org](https://www.briserlachaine.org/statut) de l’ONG BAYES, peuvent vous aider à vous souvenir de toutes les personnes que vous avez croisées.
@@ -771,7 +771,7 @@ Concernant les **concours et les examens** :
 
 <div class="conseil">
 
-Retrouvez le <a href="#conseils-depistage" class="lien-depistage">lieu de test le plus proche</a>.
+Retrouvez le <a href="/conseils-depistage" class="lien-depistage">lieu de test le plus proche</a>.
 
 </div>
 
@@ -794,7 +794,7 @@ Retrouvez le <a href="#conseils-depistage" class="lien-depistage">lieu de test l
 
 <div class="conseil">
 
-Retrouvez le <a href="#conseils-depistage" class="lien-depistage">lieu de test le plus proche</a>.
+Retrouvez le <a href="/conseils-depistage" class="lien-depistage">lieu de test le plus proche</a>.
 
 </div>
 
@@ -844,11 +844,11 @@ Vous avez eu la Covid il y a moins de 3 mois, **vous ne devez pas vous faire va
 
 <div class="conseil">
 
-Vous avez plus de 50 ans, **vous pouvez vous faire vacciner dès maintenant**. Nous vous invitons à <a href="#conseils-vaccins" class="lien-vaccination">prendre rendez-vous dans le centre de vaccination le plus proche</a>.
+Vous avez plus de 50 ans, **vous pouvez vous faire vacciner dès maintenant**. Nous vous invitons à <a href="/conseils-vaccins" class="lien-vaccination">prendre rendez-vous dans le centre de vaccination le plus proche</a>.
 
 Les plages de rendez-vous sont ouvertes au fur et à mesure par les centres de vaccination.
 
-Si vous n’arrivez pas à trouver un rendez-vous en ligne, vous pouvez appeler le centre de vaccination au numéro indiqué sur <a href="#conseils-vaccins" class="lien-vaccination">la liste des lieux de vaccination</a> et leur demander de vous inscrire sur **liste d’attente**. N’hésitez pas à vous rapprocher de votre mairie, certaines gèrent également des listes d’attente.
+Si vous n’arrivez pas à trouver un rendez-vous en ligne, vous pouvez appeler le centre de vaccination au numéro indiqué sur <a href="/conseils-vaccins" class="lien-vaccination">la liste des lieux de vaccination</a> et leur demander de vous inscrire sur **liste d’attente**. N’hésitez pas à vous rapprocher de votre mairie, certaines gèrent également des listes d’attente.
 
 </div>
 
@@ -878,7 +878,7 @@ Vous avez plus de 18 ans, et vous êtes considéré·e comme une personne ayant
 
 <div class="conseil">
 
-Tou·tes les professionnel·les de santé, **peuvent se faire vacciner dès maintenant**. Nous vous invitons à <a href="#conseils-vaccins" class="lien-vaccination">prendre rendez-vous dans le centre de vaccination le plus proche</a>.
+Tou·tes les professionnel·les de santé, **peuvent se faire vacciner dès maintenant**. Nous vous invitons à <a href="/conseils-vaccins" class="lien-vaccination">prendre rendez-vous dans le centre de vaccination le plus proche</a>.
 
 </div>
 
@@ -940,7 +940,7 @@ Vous avec un traitement de longue durée ou une maladie chronique. Nous vous inv
 
 <div class="conseil">
 
-Trouvez les <a href="#conseils-vaccins" class="lien-vaccination">lieux de vaccination proches de chez vous</a> ou appelez le numéro vert <a href="tel:0800009110">0 800 009 110</a> (7j/7, de 6h à 22h) pour un accompagnement à la prise de rendez-vous.
+Trouvez les <a href="/conseils-vaccins" class="lien-vaccination">lieux de vaccination proches de chez vous</a> ou appelez le numéro vert <a href="tel:0800009110">0 800 009 110</a> (7j/7, de 6h à 22h) pour un accompagnement à la prise de rendez-vous.
 
 </div>
 
@@ -1003,7 +1003,7 @@ Les **effets secondaires** les plus fréquents des vaccins contre la Covid sont�
 
 <div class="conseil">
 
-Vous présentez un risque de développement d’une forme grave de Covid, **vous pouvez vous faire vacciner dès maintenant**. Nous vous invitons à consulter votre médecin pour obtenir une **ordonnance**, avant de <a href="#conseils-vaccins" class="lien-vaccination">prendre rendez-vous dans le centre de vaccination le plus proche</a>.
+Vous présentez un risque de développement d’une forme grave de Covid, **vous pouvez vous faire vacciner dès maintenant**. Nous vous invitons à consulter votre médecin pour obtenir une **ordonnance**, avant de <a href="/conseils-vaccins" class="lien-vaccination">prendre rendez-vous dans le centre de vaccination le plus proche</a>.
 
 </div>
 

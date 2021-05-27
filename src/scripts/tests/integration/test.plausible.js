@@ -9,7 +9,7 @@ describe('Plausible', function () {
     it('accès à une page', async function () {
         const page = this.test.page
 
-        await page.goto('http://localhost:8080/#introduction')
+        await page.goto('http://localhost:8080//introduction')
         await page.waitForSelector('#page.ready')
         assert.equal(
             await page.title(),
@@ -22,7 +22,7 @@ describe('Plausible', function () {
     it('drapeau sur une page', async function () {
         const page = this.test.page
 
-        await page.goto('http://localhost:8080/#introduction')
+        await page.goto('http://localhost:8080//introduction')
         await page.waitForSelector('#page.ready')
         const bouton = await page.waitForSelector('.feedback-component >> text="Oui"')
         await bouton.click()
@@ -41,14 +41,14 @@ describe('Plausible', function () {
     it('avis positif conseils', async function () {
         const page = this.test.page
 
-        await page.goto('http://localhost:8080/#introduction')
+        await page.goto('http://localhost:8080//introduction')
         let bouton = await page.waitForSelector(
             '#page.ready #profils-cards-empty >> text="Des conseils pour moi"'
         )
 
         await Promise.all([
             bouton.click(),
-            page.waitForNavigation({ url: '**/#vaccins' }),
+            page.waitForNavigation({ url: '**//vaccins' }),
         ])
 
         await remplirQuestionnaire(page, {
@@ -102,7 +102,7 @@ describe('Plausible', function () {
     it('avis positif conseils pour une proche', async function () {
         const page = this.test.page
 
-        await page.goto('http://localhost:8080/#introduction')
+        await page.goto('http://localhost:8080//introduction')
         let bouton = await page.waitForSelector(
             '#page.ready #profils-cards-empty .js-profil-new >> text="Des conseils pour un·e proche"'
         )
@@ -162,13 +162,13 @@ describe('Plausible', function () {
     it('avis négatif conseils', async function () {
         const page = this.test.page
 
-        await page.goto('http://localhost:8080/#introduction')
+        await page.goto('http://localhost:8080//introduction')
         let bouton = await page.waitForSelector(
             '#page.ready #profils-cards-empty >> text="Des conseils pour moi"'
         )
         await Promise.all([
             bouton.click(),
-            page.waitForNavigation({ url: '**/#vaccins' }),
+            page.waitForNavigation({ url: '**//vaccins' }),
         ])
         await remplirQuestionnaire(page, {
             vaccins: 'pas_encore',
@@ -221,7 +221,7 @@ describe('Plausible', function () {
     it('avis négatif conseils pour un proche', async function () {
         const page = this.test.page
 
-        await page.goto('http://localhost:8080/#introduction')
+        await page.goto('http://localhost:8080//introduction')
         let bouton = await page.waitForSelector(
             '#page.ready #profils-cards-empty .js-profil-new >> text="Des conseils pour un·e proche"'
         )

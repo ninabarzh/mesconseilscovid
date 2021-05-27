@@ -66,7 +66,7 @@ export default function conseils(element, app) {
         }
 
         // Cacher le bloc de statut si on est en auto-suivi.
-        hideSelector(element, '#conseils-statut')
+        hideSelector(element, '/conseils-statut')
     }
 
     cacherElementsConditionnels(element, app.profil)
@@ -254,7 +254,7 @@ function dynamicTimelineDataInjection(element, profil) {
                 contagiosite: joursAvant(2, profil.symptomes_start_date),
                 debutIsolement: `${formatDate(
                     profil.symptomes_start_date
-                )} (<a href="#symptomes">modifier</a>)`,
+                )} (<a href="/symptomes">modifier</a>)`,
                 demain: joursApres(1, new Date()),
                 finIsolement: joursApres(dureeIsolement, profil.symptomes_start_date),
                 finIsolementPositif: joursApres(
@@ -291,7 +291,7 @@ function dynamicTimelineDataInjection(element, profil) {
                 contagiosite: joursAvant(2, profil.depistage_start_date),
                 debutIsolement: `${formatDate(
                     profil.depistage_start_date
-                )} (<a href="#depistage">modifier</a>)`,
+                )} (<a href="/depistage">modifier</a>)`,
                 demain: joursApres(1, new Date()),
                 finIsolement: joursApres(dureeIsolement, profil.depistage_start_date),
                 finIsolementPositif: joursApres(

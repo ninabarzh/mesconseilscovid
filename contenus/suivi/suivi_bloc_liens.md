@@ -3,8 +3,8 @@ Nous vous recommandons de l’effectuer une à deux fois par jour (pour y penser
 
 <div class="form-controls">
     <div class="button-full-width">
-        <a class="button button-full-width" href="#suiviintroduction"
+        <a class="button button-full-width" href="/suivi/introduction"
             >Remplir le questionnaire de suivi</a>
     </div>
-    <a class="button button-outline button-full-width" href="#suivihistorique">Consulter mon historique</a>
+    <a class="button button-outline button-full-width" href="/suivi/historique">Consulter mon historique</a>
 </div>

@@ -32,16 +32,8 @@ import {
 } from './questionnaire'
 
 export function initRouter(app) {
-    var root = null
-    var useHash = true
-    var router = new Navigo(root, useHash)
+    var router = new Navigo('/')
     const initialTitle = document.title
-
-    // Workaround unwanted behaviour in Navigo.
-    if (router.root.slice(-1) !== '/') {
-        router.root = router.root + '/'
-    }
-
     router.hooks({
         before: function (done) {
             var header = document.querySelector('header section')
@@ -145,12 +137,12 @@ export function initRouter(app) {
         if (boutonRetour) {
             const previousPage = app.questionnaire.previousPage(pageName, app.profil)
             if (previousPage) {
-                boutonRetour.setAttribute('href', `#${previousPage}`)
+                boutonRetour.setAttribute('href', `/${previousPage}`)
             }
         }
 
         Array.from(element.querySelectorAll('.premiere-question')).forEach((lien) => {
-            lien.setAttribute('href', `#${app.questionnaire.firstPage}`)
+            lien.setAttribute('href', `/${app.questionnaire.firstPage}`)
         })
     }
 
@@ -162,7 +154,7 @@ export function initRouter(app) {
         ) {
             // Replace current page with target page in the browser history
             // so that we don’t break the back button.
-            window.history.replaceState({}, '', `#${target}`)
+            window.history.replaceState({}, '', `/${target}`)
             router.resolve()
         } else {
             router.navigate(target)
@@ -233,7 +225,13 @@ export function initRouter(app) {
     })
 
     router.notFound(function () {
-        redirectTo('introduction')
+        const hash = document.location.hash
+        const fragment = hash ? hash.slice(1) : ''
+        if (window.location.pathname === '/' && fragment && router.match(fragment)) {
+            redirectTo(fragment)
+        } else {
+            redirectTo('introduction')
+        }
     })
 
     return router

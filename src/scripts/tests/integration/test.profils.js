@@ -8,7 +8,7 @@ describe('Profils', function () {
         // On est redirigé vers l’introduction.
         await Promise.all([
             page.goto('http://localhost:8080/'),
-            page.waitForNavigation({ url: '**/#introduction' }),
+            page.waitForNavigation({ url: '**//introduction' }),
         ])
 
         // Page d’accueil.
@@ -28,14 +28,14 @@ describe('Profils', function () {
             let bouton = await page.waitForSelector('#page.ready >> text="Continuer"')
             await Promise.all([
                 bouton.click(),
-                page.waitForNavigation({ url: '**/#vaccins' }),
+                page.waitForNavigation({ url: '**//vaccins' }),
             ])
         }
 
         // Légende adaptée.
         {
             let legend = await page.waitForSelector(
-                '#page.ready #vaccins-form legend h1'
+                '#page.ready /vaccins-form legend h1'
             )
             assert.equal(await legend.innerText(), 'Sa vaccination')
         }
@@ -59,18 +59,18 @@ describe('Profils', function () {
         // Conseils.
         {
             // On retrouve le titre explicite.
-            let titre = await page.waitForSelector('#page.ready #conseils-block-titre')
+            let titre = await page.waitForSelector('#page.ready /conseils-block-titre')
             assert.equal(await titre.innerText(), 'Conseils pour « Mamie »') // &nbsp; autour du nom
 
             // On rend la localisation visible.
-            await page.click('#page.ready #conseils-deplacements h3')
+            await page.click('#page.ready /conseils-deplacements h3')
 
             // On retrouve le département de résidence.
             let residence = await page.waitForSelector('#page.ready #nom-departement')
             assert.equal(await residence.innerText(), 'Somme')
 
             // On rend l’activité visible.
-            await page.click('#page.ready #conseils-activite h3')
+            await page.click('#page.ready /conseils-activite h3')
 
             // On retrouve l’activité.
             let activite = await page.waitForSelector(
@@ -88,7 +88,7 @@ describe('Profils', function () {
             )
             await Promise.all([
                 bouton.click(),
-                page.waitForNavigation({ url: '**/#introduction' }),
+                page.waitForNavigation({ url: '**//introduction' }),
             ])
         }
 

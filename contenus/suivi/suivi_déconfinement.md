@@ -8,8 +8,8 @@
 
 <div class="form-controls">
     <div class="button-full-width">
-        <a class="button button-full-width" href="#suiviintroduction"
+        <a class="button button-full-width" href="/suivi/introduction"
             >Continuer mon suivi</a>
     </div>
-    <a class="button button-outline button-full-width" href="#suivihistorique">Consulter mon historique</a>
+    <a class="button button-outline button-full-width" href="/suivi/historique">Consulter mon historique</a>
 </div>

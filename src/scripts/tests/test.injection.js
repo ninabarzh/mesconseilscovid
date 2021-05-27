@@ -21,7 +21,7 @@ describe('Injection', function () {
         var dom = new JSDOM(`<!DOCTYPE html><div></div>`)
         var element = dom.window.document.querySelector('div')
         element.innerHTML =
-            '<a href="#conseils-departement" id="lien-prefecture">Site</a>'
+            '<a href="/conseils-departement" id="lien-prefecture">Site</a>'
         injection.lienPrefecture(element.querySelector('#lien-prefecture'), '01')
 
         assert.strictEqual(
@@ -82,7 +82,7 @@ describe('Injection', function () {
         var dom = new JSDOM(`<!DOCTYPE html><div></div>`)
         var element = dom.window.document.querySelector('div')
         element.innerHTML =
-            '<a href="#conseils-departement" class="lien-vaccination">Site</a>'
+            '<a href="/conseils-departement" class="lien-vaccination">Site</a>'
         injection.lienVaccination(element.querySelector('.lien-vaccination'), '01')
 
         assert.strictEqual(
@@ -95,7 +95,7 @@ describe('Injection', function () {
         var dom = new JSDOM(`<!DOCTYPE html><div></div>`)
         var element = dom.window.document.querySelector('div')
         element.innerHTML =
-            '<a href="#conseils-departement" class="lien-vaccination">Site</a>'
+            '<a href="/conseils-departement" class="lien-vaccination">Site</a>'
         injection.lienVaccination(element.querySelector('.lien-vaccination'), '22')
 
         assert.strictEqual(
@@ -108,7 +108,7 @@ describe('Injection', function () {
         var dom = new JSDOM(`<!DOCTYPE html><div></div>`)
         var element = dom.window.document.querySelector('div')
         element.innerHTML =
-            '<a href="#conseils-departement" class="lien-vaccination">Site</a>'
+            '<a href="/conseils-departement" class="lien-vaccination">Site</a>'
         injection.lienVaccination(element.querySelector('.lien-vaccination'), '2A')
 
         assert.strictEqual(
@@ -121,7 +121,7 @@ describe('Injection', function () {
         var dom = new JSDOM(`<!DOCTYPE html><div></div>`)
         var element = dom.window.document.querySelector('div')
         element.innerHTML =
-            '<a href="#conseils-departement" class="lien-vaccination">Site</a>'
+            '<a href="/conseils-departement" class="lien-vaccination">Site</a>'
         injection.lienVaccination(element.querySelector('.lien-vaccination'), '975')
 
         assert.strictEqual(
@@ -134,7 +134,7 @@ describe('Injection', function () {
         var dom = new JSDOM(`<!DOCTYPE html><div></div>`)
         var element = dom.window.document.querySelector('div')
         element.innerHTML =
-            '<a href="#conseils-departement" class="lien-vaccination">Site</a>'
+            '<a href="/conseils-departement" class="lien-vaccination">Site</a>'
         injection.lienVaccination(element.querySelector('.lien-vaccination'), '00')
 
         assert.strictEqual(
@@ -147,7 +147,7 @@ describe('Injection', function () {
         var dom = new JSDOM(`<!DOCTYPE html><div></div>`)
         var element = dom.window.document.querySelector('div')
         element.innerHTML =
-            '<a href="#conseils-departement" class="lien-depistage">Site</a>'
+            '<a href="/conseils-departement" class="lien-depistage">Site</a>'
         injection.lienDepistage(element.querySelector('.lien-depistage'), '01')
 
         assert.strictEqual(
@@ -160,7 +160,7 @@ describe('Injection', function () {
         var dom = new JSDOM(`<!DOCTYPE html><div></div>`)
         var element = dom.window.document.querySelector('div')
         element.innerHTML =
-            '<a href="#conseils-departement" class="lien-depistage">Site</a>'
+            '<a href="/conseils-departement" class="lien-depistage">Site</a>'
         injection.lienDepistage(element.querySelector('.lien-depistage'), '2A')
 
         assert.strictEqual(
@@ -173,7 +173,7 @@ describe('Injection', function () {
         var dom = new JSDOM(`<!DOCTYPE html><div></div>`)
         var element = dom.window.document.querySelector('div')
         element.innerHTML =
-            '<a href="#conseils-departement" class="lien-depistage">Site</a>'
+            '<a href="/conseils-departement" class="lien-depistage">Site</a>'
         injection.lienDepistage(element.querySelector('.lien-depistage'), '00')
 
         assert.strictEqual(
